@@ -4,14 +4,10 @@
     <meta charset="UTF-8">
     <script src="tagcanvas.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-        var options = {
-            textColour: '#26268d',
-            textHeight: 30,
-            depth: 0.99
-        };
         window.onload = function() {
+            TagCanvas.textColour = "#00f"
         try {
-      TagCanvas.Start('myCanvas');
+            TagCanvas.Start('myCanvas');
     } catch(e) {
       // something went wrong, hide the canvas container
       document.getElementById('myCanvasContainer').style.display = 'none';
