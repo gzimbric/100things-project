@@ -1,0 +1,9 @@
+#thankfulCanvasContainer {
+    margin: 0 auto;
+}
+
+#thankfulTitle {
+    font-family: sans-serif;
+    text-align: center;
+    color: #00f;
+}
