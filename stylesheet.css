@@ -1,5 +1,5 @@
-* {
-
+#thankfulCanvasContainer {
+    margin: 0 auto;
 }
 
 #thankfulTitle {
@@ -8,6 +8,4 @@
     color: #00f;
 }
 
-#thankfulCanvasContainer {
-    margin: 0 auto;
-}
+
