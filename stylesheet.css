@@ -1,4 +1,3 @@
-
 #thankfulTitle {
     font-family: sans-serif;
     text-align: center;
@@ -7,4 +6,5 @@
 
 #thankfulCanvasContainer {
     margin: 0 auto;
+    width: 100%;
 }
