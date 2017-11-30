@@ -1,10 +1,10 @@
+#thankfulCanvasContainer canvas {
+    margin: 0 auto;
+    width: 100%;
+}
+
 #thankfulTitle {
     font-family: sans-serif;
     text-align: center;
     color: #00f;
-}
-
-#thankfulCanvasContainer {
-    margin: 0 auto;
-    width: 100%;
 }
